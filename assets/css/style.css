@@ -1,0 +1,6 @@
+h1{text-align:center !important; color:red;}
+td{text-align:center; background-color:#ECEFF1;}
+th{background-color:red}
+table tbody tr:nth-child(even) td{background-color:#63873E;}
+
+
